@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">UI-Demo</string>
+    <string name="ui_demo">UI-Demo</string>
+    <string name="emvs_android_development">EMVs - Androit Development</string>
+    <string name="wilkommen_zu_zweiten_app">Wilkommen zu zweiten App</string>
+    <string name="_1_layouts">1. Layouts</string>
+    <string name="diese_seite_hat_ein_options_menu_klicke_auf_den_menu_button_um_das_meneu_anzuzeigen">Diese Seite hat ein Options-Menu. Klicke auf den Menu-Button um das Meneu anzuzeigen</string>
+    <string name="_4_options_menu">4. Options-Menu</string>
+    <string name="seite_mit_views_demos_anzeigen">SEITE MIT VIEWS-DEMOS ANZEIGEN</string>
+    <string name="w_hle_eines_der_folgenden_layouts_f_r_eine_demo">Wähle eines der folgenden Layouts für eine Demo</string>
+    <string name="linearlayout">LinearLayout</string>
+    <string name="relativelayout">RelativeLayout</string>
+    <string name="_2_screen_orientation_und_bersetzung">2. Screen-Orientation und Übersetzung</string>
+    <string name="diese_seite_hat_ein_angepasstes_layout_f_r_landscape_mode_probier_es_aus_ausserdem_kann_sie_auch_walliserdeutsch_stelle_die_sprache_im_emulator_auf_deutsch_svchweiz_um_und_starte_die_app_erneut">Diese Seite hat ein angepasstes Layout für Landscape Mode. Probier es aus! Ausserdem kann sie auch Walliserdeutsch: Stelle die Sprache im Emulator auf Deutsch(Svchweiz) um, und starte die App erneut.</string>
+    <string name="_3_views_und_events">3. Views und Events</string>
+    <string name="_5_spinner_und_listactivity">5. Spinner und ListActivity</string>
+    <string name="w_hlen_sie_einen_infomatik_kurs">wählen sie einen Infomatik-Kurs</string>
+    <string name="_6_zustands_zwischenspeicherung">6. Zustands-Zwischenspeicherung</string>
+    <string name="z_hler">Zähler =</string>
+    <string name="_0">0</string>
+    <string name="dr_ken_den_knopf_einige_male_eine_snackbar_mit_dem_internen_z_hlerstand_wird_angezeigt_drehe_das_ger_t_von_portrait_in_landscape_modus_der_z_hler_wird_zur_kgesetzt_das_darf_nicht_sein">Drüken den Knopf einige Male. Eine Snackbar mit dem internen Zählerstand wird angezeigt, Drehe das Gerät von Portrait in Landscape Modus. Der Zähler wird Zurükgesetzt! Das darf nicht sein...</string>
+    <string name="internen_zustand_hochz_hlen">INTERNEN ZUSTAND HOCHZÄHLEN</string>
+    <string name="_7_dialoge_und_noifications">7. Dialoge und Noifications</string>
+    <string name="w_hle_ein_beispiel">Wähle ein Beispiel</string>
+    <string name="textview">TextView</string>
+    <string name="bestellung">Bestellung</string>
+    <string name="sondertarif">Sondertarif</string>
+    <string name="menge">Menge</string>
+    <string name="produkt_id">Produkt-ID</string>
+    <string name="preis_berechnen">PREIS BERECHNEN</string>
+</resources>

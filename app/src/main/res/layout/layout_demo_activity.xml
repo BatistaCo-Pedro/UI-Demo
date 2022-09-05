@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="5sp"
+                android:layout_marginLeft="15sp"
+                android:layout_marginTop="15sp"
+                android:layout_marginEnd="15sp"
+                android:layout_marginRight="15sp"
+                android:layout_marginBottom="10sp"
+                android:text="@string/emvs_android_development"
+                android:textSize="24sp" />
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="5sp"
+                android:text="@string/wilkommen_zu_zweiten_app" />
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20sp"
+                android:layout_marginBottom="15sp"
+                android:background="#03A9F4"
+                android:padding="5sp"
+                android:text="@string/_1_layouts"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="5sp"
+                android:text="@string/w_hle_eines_der_folgenden_layouts_f_r_eine_demo" />
+
+            <RadioGroup
+                android:id="@+id/radianStyle"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="10sp"
+                android:orientation="horizontal">
+
+                <RadioButton
+                    android:id="@+id/radioButtonLinearLayout"
+                    android:layout_width="188dp"
+                    android:layout_height="wrap_content"
+                    android:text="@string/linearlayout" />
+
+                <RadioButton
+                    android:id="@+id/radioButtonRelativeLayout"
+                    android:layout_width="191dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/relativelayout" />
+
+            </RadioGroup>
+
+            <TextView
+                android:id="@+id/textView6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20sp"
+                android:layout_marginBottom="15sp"
+                android:layout_weight="1"
+                android:background="#03A9F4"
+                android:text="@string/_2_screen_orientation_und_bersetzung"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/textView7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="5sp"
+                android:text="@string/diese_seite_hat_ein_angepasstes_layout_f_r_landscape_mode_probier_es_aus_ausserdem_kann_sie_auch_walliserdeutsch_stelle_die_sprache_im_emulator_auf_deutsch_svchweiz_um_und_starte_die_app_erneut" />
+
+            <TextView
+                android:id="@+id/textView8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20sp"
+                android:layout_marginBottom="15sp"
+                android:layout_weight="1"
+                android:background="#03A9F4"
+                android:text="@string/_3_views_und_events"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#9C27B0"
+                android:text="@string/seite_mit_views_demos_anzeigen" />
+
+            <TextView
+                android:id="@+id/textView9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20sp"
+                android:layout_marginBottom="15sp"
+                android:layout_weight="1"
+                android:background="#03A9F4"
+                android:padding="5sp"
+                android:text="@string/_4_options_menu"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/textView10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="5sp"
+                android:text="@string/diese_seite_hat_ein_options_menu_klicke_auf_den_menu_button_um_das_meneu_anzuzeigen" />
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20sp"
+                android:layout_marginBottom="15sp"
+                android:layout_weight="1"
+                android:background="#03A9F4"
+                android:padding="5sp"
+                android:text="@string/_5_spinner_und_listactivity"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/textView11"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="5sp"
+                android:text="@string/w_hlen_sie_einen_infomatik_kurs" />
+
+            <Spinner
+                android:id="@+id/spinner"
+                android:layout_width="match_parent"
+                android:layout_height="41dp"
+                android:spinnerMode="dropdown" />
+
+            <TextView
+                android:id="@+id/textView12"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20sp"
+                android:layout_marginBottom="15sp"
+                android:layout_weight="1"
+                android:background="#03A9F4"
+                android:padding="5sp"
+                android:text="@string/_6_zustands_zwischenspeicherung"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/textView14"
+                    android:layout_width="5dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="5sp"
+                    android:layout_marginEnd="-300sp"
+                    android:layout_weight="1"
+                    android:text="@string/z_hler" />
+
+                <TextView
+                    android:id="@+id/textView15"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="5sp"
+                    android:layout_weight="1"
+                    android:text="@string/_0" />
+
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/textView16"
+                android:layout_width="match_parent"
+                android:layout_height="71dp"
+                android:layout_marginStart="5sp"
+                android:layout_weight="1"
+                android:text="@string/dr_ken_den_knopf_einige_male_eine_snackbar_mit_dem_internen_z_hlerstand_wird_angezeigt_drehe_das_ger_t_von_portrait_in_landscape_modus_der_z_hler_wird_zur_kgesetzt_das_darf_nicht_sein" />
+
+            <Button
+                android:id="@+id/button3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#9C27B0"
+                android:text="@string/internen_zustand_hochz_hlen" />
+
+            <TextView
+                android:id="@+id/textView17"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20sp"
+                android:layout_marginBottom="15sp"
+                android:layout_weight="1"
+                android:background="#03A9F4"
+                android:padding="5sp"
+                android:text="@string/_7_dialoge_und_noifications"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/textView18"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="5sp"
+                android:layout_weight="1"
+                android:text="@string/w_hle_ein_beispiel" />
+
+            <Spinner
+                android:id="@+id/spinner2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:spinnerMode="dialog" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

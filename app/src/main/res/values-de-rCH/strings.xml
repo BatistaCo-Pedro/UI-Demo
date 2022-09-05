@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UI-Demo</string>
+    <string name="ui_demo">UI-Demo</string>
+    <string name="emvs_android_development">EMVs_android_development</string>
+    <string name="wilkommen_zu_zweiten_app">Tagwohl</string>
+    <string name="_1_layouts">1. Layouts</string>
+    <string name="diese_seite_hat_ein_angepasstes_layout_f_r_landscape_mode_probier_es_aus_ausserdem_kann_sie_auch_walliserdeutsch_stelle_die_sprache_im_emulator_auf_deutsch_svchweiz_um_und_starte_die_app_erneut">Discha Sita hät es agipassts Layout ver do Landscape Modus. Pribier sos üs! èsserdem chatch äu hochditsch: Stell d`Sprach im Emulator üf Deutsch (de) um und starti d`App neu.</string>
+    <string name="diese_seite_hat_ein_options_menu_klicke_auf_den_menu_button_um_das_meneu_anzuzeigen">Dischi Sita hät es Options-Menü. Drick üf do Menü-Button ver z`menü azzeigo</string>
+    <string name="_4_options_menu">4. Options-Menü</string>
+    <string name="seite_mit_views_demos_anzeigen">"Sita mit View-Demos azzeigo "</string>
+    <string name="w_hle_eines_der_folgenden_layouts_f_r_eine_demo">Läs eis von d`folgende Layouts üs ver en Demo</string>
+    <string name="linearlayout">LinearLayout</string>
+    <string name="relativelayout">RelativeLayout</string>
+    <string name="_2_screen_orientation_und_bersetzung">2. Screen Orientiriig und Übersetzig</string>
+    <string name="_3_views_und_events">3. Views und Events</string>
+    <string name="_5_spinner_und_listactivity">5. Spinner und ListActivity</string>
+    <string name="w_hlen_sie_einen_infomatik_kurs">Läs en Informatik Kurs-üs</string>
+    <string name="_6_zustands_zwischenspeicherung">6. Zustands-Zwischospeicherig</string>
+    <string name="z_hler">"Zähler = "</string>
+    <string name="_0">0</string>
+    <string name="dr_ken_den_knopf_einige_male_eine_snackbar_mit_dem_internen_z_hlerstand_wird_angezeigt_drehe_das_ger_t_von_portrait_in_landscape_modus_der_z_hler_wird_zur_kgesetzt_das_darf_nicht_sein">Drick d`Knopf hüfa Mal. En Snackbar mit dm`interno Zählerstand wird aggezeigt. Dreho ds`Gerät vo Portrait in Landscape Modus. D`Zähler wird Zurückgsetzt! Das darf nit sii</string>
+    <string name="internen_zustand_hochz_hlen">Interna Zustand hochzählo</string>
+    <string name="_7_dialoge_und_noifications">7. Diologi und Notifikatione</string>
+    <string name="w_hle_ein_beispiel">Läs en Beispiel üs</string>
+    <string name="bestellung">Bstellig</string>
+    <string name="sondertarif">Sondertarif</string>
+    <string name="menge">Mengi</string>
+    <string name="produkt_id">Produkt-Id</string>
+    <string name="preis_berechnen">Priis berechno</string>
+</resources>

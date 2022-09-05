@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Lehre/2.Lehrjahr/prArb/Android Development/02/Uebungen/UI Aufgaben/UI-Demo/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.14" />
+        <entry key="..\:/Lehre/2.Lehrjahr/prArb/Android Development/02/Uebungen/UI Aufgaben/UI-Demo/app/src/main/res/layout/LayoutDemoActivity.xml" value="0.358695652173913" />
+        <entry key="..\:/Lehre/2.Lehrjahr/prArb/Android Development/02/Uebungen/UI Aufgaben/UI-Demo/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/Lehre/2.Lehrjahr/prArb/Android Development/02/Uebungen/UI Aufgaben/UI-Demo/app/src/main/res/layout/activity_test.xml" value="0.2604166666666667" />
+        <entry key="..\:/Lehre/2.Lehrjahr/prArb/Android Development/02/Uebungen/UI Aufgaben/UI-Demo/app/src/main/res/layout/bestelung.xml" value="0.33" />
+        <entry key="..\:/Lehre/2.Lehrjahr/prArb/Android Development/02/Uebungen/UI Aufgaben/UI-Demo/app/src/main/res/layout/layout_demo_activity.xml" value="0.358695652173913" />
+        <entry key="..\:/Lehre/2.Lehrjahr/prArb/Android Development/02/Uebungen/UI Aufgaben/UI-Demo/app/src/main/res/layout/linear_layout.xml" value="0.2" />
+        <entry key="..\:/Users/bfo/Documents/UI-Demo/app/src/main/res/layout-land/layout_demo_activity.xml" value="0.33" />
+        <entry key="..\:/Users/bfo/Documents/UI-Demo/app/src/main/res/layout/activity_main.xml" value="0.42916666666666664" />
+        <entry key="..\:/Users/bfo/Documents/UI-Demo/app/src/main/res/layout/bestelung.xml" value="0.42916666666666664" />
+        <entry key="..\:/Users/bfo/Documents/UI-Demo/app/src/main/res/layout/layout_demo_activity.xml" value="0.42916666666666664" />
+        <entry key="..\:/Users/bfo/Documents/UI-Demo/app/src/main/res/layout/linear_layout.xml" value="0.42916666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

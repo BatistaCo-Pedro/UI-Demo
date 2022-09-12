@@ -112,6 +112,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="#9C27B0"
+                android:onClick="onClickDemo"
                 android:text="@string/seite_mit_views_demos_anzeigen" />
 
             <TextView

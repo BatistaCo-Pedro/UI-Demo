@@ -28,4 +28,15 @@
     <string name="menge">Menge</string>
     <string name="produkt_id">Produkt-ID</string>
     <string name="preis_berechnen">PREIS BERECHNEN</string>
+    <string name="title_activity_views_demo">ViewsDemoActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="Ttile">Ui-Demo</string>
+    <string name="SwitchButton">Mit Zucker</string>
 </resources>

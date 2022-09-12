@@ -3,6 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Andorid/VCS/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2985" />
+        <entry key="..\:/Andorid/VCS/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2985" />
+        <entry key="..\:/Andorid/VCS/app/src/main/res/drawable/lolg.xml" value="0.2985" />
+        <entry key="..\:/Andorid/VCS/app/src/main/res/layout-land/layout_demo_activity.xml" value="0.36331569664902996" />
+        <entry key="..\:/Andorid/VCS/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/Andorid/VCS/app/src/main/res/layout/activity_views_demo.xml" value="0.358695652173913" />
+        <entry key="..\:/Andorid/VCS/app/src/main/res/layout/bestelung.xml" value="0.358695652173913" />
+        <entry key="..\:/Andorid/VCS/app/src/main/res/layout/content_views_demo.xml" value="0.358695652173913" />
+        <entry key="..\:/Andorid/VCS/app/src/main/res/layout/fragment_first.xml" value="0.358695652173913" />
+        <entry key="..\:/Andorid/VCS/app/src/main/res/layout/layout_demo_activity.xml" value="0.358695652173913" />
+        <entry key="..\:/Andorid/VCS/app/src/main/res/layout/linear_layout.xml" value="0.358695652173913" />
         <entry key="..\:/Lehre/2.Lehrjahr/prArb/Android Development/02/Uebungen/UI Aufgaben/UI-Demo/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.14" />
         <entry key="..\:/Lehre/2.Lehrjahr/prArb/Android Development/02/Uebungen/UI Aufgaben/UI-Demo/app/src/main/res/layout/LayoutDemoActivity.xml" value="0.358695652173913" />
         <entry key="..\:/Lehre/2.Lehrjahr/prArb/Android Development/02/Uebungen/UI Aufgaben/UI-Demo/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />

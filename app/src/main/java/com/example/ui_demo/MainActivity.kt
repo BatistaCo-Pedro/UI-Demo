@@ -33,4 +33,9 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
+    fun onClickDemo(v: View)
+    {
+        val intent = Intent(this, ViewsDemoActivity::class.java);
+        startActivity(intent);
+    }
 }

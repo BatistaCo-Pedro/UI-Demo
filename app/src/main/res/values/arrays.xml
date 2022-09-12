@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="itCourses">
+        <item>-</item>
+        <item>Access: Aufbau</item>
+        <item>Daten aus- und aufwerten mit Access und Excel</item>
+    </string-array>
+</resources>

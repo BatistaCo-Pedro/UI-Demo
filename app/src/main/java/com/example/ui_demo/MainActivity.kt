@@ -1,5 +1,6 @@
 package com.example.ui_demo
 
+import android.annotation.SuppressLint
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -7,17 +8,33 @@ import android.util.Log
 import android.view.Menu
 import android.view.MenuItem
 import android.view.View
-import android.widget.LinearLayout
-import android.widget.RadioButton
-import android.widget.RadioGroup
+import android.widget.*
 import com.google.android.material.snackbar.Snackbar
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.layout_demo_activity)
-        setListeners();
+        setListeners()
+        setAdapterView()
     }
+
+    fun setAdapterView(){
+        val myArray = getResources().getStringArray(R.array.itCourses)
+        val adapter = ArrayAdapter(this, android.R.layout.simple_spinner_item, myArray)
+        val mySpinner = findViewById<Spinner>(R.id.spinner)
+        mySpinner.adapter = adapter
+    }
+
+//    public void onItemSelected(AdapterView<?> parent,
+//    View view, int pos, long id) {
+//        Toast.makeText(parent.getContext()), "The planet is " +
+//        parent.getItemAtPosition(pos).toString(), Toast.LENGTH_LONG).show();
+//    }
+//
+//    public void onNothingSelected(AdapterView parent) {
+//        // Do nothing.
+//    }
 
     override fun onCreateOptionsMenu(menu: Menu?): Boolean {
         super.onCreateOptionsMenu(menu)
@@ -49,11 +66,6 @@ class MainActivity : AppCompatActivity() {
             )
             startActivity(intent);
         }
-    }
-
-    fun lol()
-    {
-
     }
 
     fun onClickDemo(v: View)

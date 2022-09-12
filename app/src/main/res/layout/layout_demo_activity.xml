@@ -160,6 +160,7 @@
                 android:id="@+id/spinner"
                 android:layout_width="match_parent"
                 android:layout_height="41dp"
+                android:entries="@array/itCourses"
                 android:spinnerMode="dropdown" />
 
             <TextView

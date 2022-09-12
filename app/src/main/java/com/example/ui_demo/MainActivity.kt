@@ -51,6 +51,11 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
+    fun lol()
+    {
+
+    }
+
     fun onClickDemo(v: View)
     {
         val intent = Intent(this, ViewsDemoActivity::class.java);

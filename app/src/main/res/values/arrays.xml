@@ -5,4 +5,10 @@
         <item>Access: Aufbau</item>
         <item>Daten aus- und aufwerten mit Access und Excel</item>
     </string-array>
+    <string-array name="Dialoge">
+        <item>-</item>
+        <item>Dialog ohne Daten</item>
+        <item>Dialog mit Daten</item>
+        <item>Custom Dialog</item>
+    </string-array>
 </resources>

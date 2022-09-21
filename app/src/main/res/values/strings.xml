@@ -20,7 +20,7 @@
     <string name="_0">0</string>
     <string name="dr_ken_den_knopf_einige_male_eine_snackbar_mit_dem_internen_z_hlerstand_wird_angezeigt_drehe_das_ger_t_von_portrait_in_landscape_modus_der_z_hler_wird_zur_kgesetzt_das_darf_nicht_sein">Drüken den Knopf einige Male. Eine Snackbar mit dem internen Zählerstand wird angezeigt, Drehe das Gerät von Portrait in Landscape Modus. Der Zähler wird Zurükgesetzt! Das darf nicht sein...</string>
     <string name="internen_zustand_hochz_hlen">INTERNEN ZUSTAND HOCHZÄHLEN</string>
-    <string name="_7_dialoge_und_noifications">7. Dialoge und Noifications</string>
+    <string name="_7_dialoge_und_noifications">7. Dialoge und Notifications</string>
     <string name="w_hle_ein_beispiel">Wähle ein Beispiel</string>
     <string name="textview">TextView</string>
     <string name="bestellung">Bestellung</string>
@@ -39,4 +39,7 @@
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
     <string name="Ttile">Ui-Demo</string>
     <string name="SwitchButton">Mit Zucker</string>
+    <string name="bug_report">Bug Report</string>
+    <string name="title_activity_custom_dialog">custom_dialog</string>
+    <string name="was_passiert" />
 </resources>
